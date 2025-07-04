@@ -12,11 +12,11 @@ It demonstrates web scraping using R to collect weather forecast data from a sta
 - Saves the scraped data into a clean CSV file `301592227.csv`
 
 ---
-
-## 🔗 Source Website
-
-```r
+## Source
 http://www.sfu.ca/~haoluns/forecast.html
 
-## RESULT
-![image](https://github.com/user-attachments/assets/d796dbca-e9ed-4ee3-9701-19bfdb8c76a7)
+## 📊 Result
+
+Here’s the output of the scraped SFU weather forecast:
+
+![Result](https://github.com/user-attachments/assets/d796dbca-e9ed-4ee3-9701-19bfdb8c76a7)
